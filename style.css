@@ -311,9 +311,4 @@ line-height: 220%;
         padding-right: 20px;
         transition: 0.5s;
     }
-    
-    .icons:hover{
-        width: 60px;
-        height: 70px;
-    }
   }
